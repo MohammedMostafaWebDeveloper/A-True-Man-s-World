@@ -1,0 +1,6 @@
+- This game is a simple 2d platformer made using Godot Game Engine.
+- The game is about a post-apocalyptic world where you have to reach the end without dying out.
+- Controls are WASD for directions and Space for jump.
+- The game is dedicated for Haven Giza.
+- thx (:
+- <img width="640" height="355" alt="image" src="https://github.com/user-attachments/assets/114ff899-7cc1-40ef-ac4c-f58279a25379" />
